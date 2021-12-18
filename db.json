@@ -1,0 +1,16 @@
+{
+	"artists": [
+		{
+			"name": "The Wiggles",
+			"bestSong": "fruit salad",
+			"worstSong": "I don't know any others",
+			"genre": "Death Metal"
+		},
+		{
+			"name": "Jonny Craig",
+			"bestSong": "The good one",
+			"worstSong": "The bad one",
+			"genre": "Rap"
+		}
+	]
+}
