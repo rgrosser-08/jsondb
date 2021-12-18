@@ -12,5 +12,29 @@
 			"worstSong": "The bad one",
 			"genre": "Rap"
 		}
+				{
+			"name": "Farty",
+			"bestSong": "fruit salad",
+			"worstSong": "I don't know any others",
+			"genre": "Death Metal"
+		},
+		{
+			"name": "big boss man",
+			"bestSong": "The good one",
+			"worstSong": "The bad one",
+			"genre": "Rap"
+		}
+				{
+			"name": "The Wiggles",
+			"bestSong": "fruit salad",
+			"worstSong": "I don't know any others",
+			"genre": "Death Metal"
+		},
+		{
+			"name": "Jonny Craig",
+			"bestSong": "The good one",
+			"worstSong": "The bad one",
+			"genre": "Rap"
+		}
 	]
 }
